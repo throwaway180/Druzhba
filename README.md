@@ -1,3 +1,5 @@
+Integration testing details omitted to protect anonymity
+ 
  
 # `Druzhba`
 
